@@ -1,4 +1,4 @@
-# Laboratory 9
+# Laboratory 10
 
 ## Laboratory Objectives
 1. Explore and use various tools such as: GitHub, VirtualBox, Tuffix, Linux Terminal, and Atom.
